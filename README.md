@@ -1,2 +1,2 @@
 # cintel-07-project
-#Need to make this readme better
+#This will be a project about books and using data from the nytimes book api and the bestsellers list 
