@@ -1,0 +1,25 @@
+2023-08-10 20:57:55,632.book_server.INFO =============================================================
+2023-08-10 20:57:55,633.book_server.INFO Today is 2023-08-10 at 08:57 PM
+2023-08-10 20:57:55,633.book_server.INFO This file is running on: nt Windows 10
+2023-08-10 20:57:55,633.book_server.INFO The Python version is: 3.9.0
+2023-08-10 20:57:55,633.book_server.INFO The active environment path is:   C:\Users\Sudeep Potluri\AppData\Local\Programs\Python\Python39
+2023-08-10 20:57:55,634.book_server.INFO The current working directory is: C:\Users\Sudeep Potluri\Documents\hari_stuff\cintel-07-project
+2023-08-10 20:57:55,634.book_server.INFO =============================================================
+2023-08-10 20:57:57,969.book_server.INFO READING df from C:\Users\Sudeep Potluri\Documents\hari_stuff\cintel-07-project\data\book.csv
+2023-08-10 20:57:57,973.book_server.INFO READING df len 10
+2023-08-10 20:57:57,973.book_server.INFO Rendering TEMP table with 10 rows
+2023-08-10 20:57:58,972.book_server.INFO READING df from C:\Users\Sudeep Potluri\Documents\hari_stuff\cintel-07-project\data\book.csv
+2023-08-10 20:57:58,977.book_server.INFO READING df len 10
+2023-08-10 20:57:58,977.book_server.INFO Rendering TEMP table with 10 rows
+2023-08-10 20:58:02,571.book_server.INFO READING df from C:\Users\Sudeep Potluri\Documents\hari_stuff\cintel-07-project\data\book.csv
+2023-08-10 20:58:02,573.book_server.INFO READING df len 10
+2023-08-10 20:58:02,573.book_server.INFO Rendering TEMP table with 10 rows
+2023-08-10 20:58:03,233.book_server.INFO READING df from C:\Users\Sudeep Potluri\Documents\hari_stuff\cintel-07-project\data\book.csv
+2023-08-10 20:58:03,235.book_server.INFO READING df len 10
+2023-08-10 20:58:03,236.book_server.INFO Rendering TEMP table with 10 rows
+2023-08-10 20:58:03,761.book_server.INFO READING df from C:\Users\Sudeep Potluri\Documents\hari_stuff\cintel-07-project\data\book.csv
+2023-08-10 20:58:03,763.book_server.INFO READING df len 10
+2023-08-10 20:58:03,763.book_server.INFO Rendering TEMP table with 10 rows
+2023-08-10 20:58:04,784.book_server.INFO READING df from C:\Users\Sudeep Potluri\Documents\hari_stuff\cintel-07-project\data\book.csv
+2023-08-10 20:58:04,788.book_server.INFO READING df len 10
+2023-08-10 20:58:04,789.book_server.INFO Rendering TEMP table with 10 rows
